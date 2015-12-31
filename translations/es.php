@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{psmgen}prestashop>psmgen_17b886110a0f925b392c480ba755ff67'] = 'PS Generador de Módulos';
+$_MODULE['<{psmgen}prestashop>psmgen_49dc3f3fad59c4a547b81ad832dc6dbd'] = 'Con este módulo podemos crear la estructura de un nuevo módulo a través de un simple formulario';
+$_MODULE['<{psmgen}prestashop>psmgen_20015706a8cbd457cbb6ea3e7d5dc9b3'] = 'Configuración actualizada';
+$_MODULE['<{psmgen}prestashop>adminpsmgencontroller_80787407a2a9b50542614ce3ffd901d7'] = 'Generador de módulos PrestaShop';
+$_MODULE['<{psmgen}prestashop>adminpsmgencontroller_20015706a8cbd457cbb6ea3e7d5dc9b3'] = 'Configuración actualizada';
+$_MODULE['<{psmgen}prestashop>validatorpsmgencontroller_1c3ec94bb0f53b42a03423566179ac2f'] = 'Validador PSMGen';
+$_MODULE['<{psmgen}prestashop>validatorpsmgencontroller_bcf5ed54e409b38c706e08dd37233d17'] = 'Validador de módulos PrestaShop';
+$_MODULE['<{psmgen}prestashop>validatorpsmgencontroller_20015706a8cbd457cbb6ea3e7d5dc9b3'] = 'Configuración actualizada';
+$_MODULE['<{psmgen}prestashop>admintemplate_80787407a2a9b50542614ce3ffd901d7'] = 'Generador de módulos para PrestaShop';
+$_MODULE['<{psmgen}prestashop>admintemplate_7adea0d9c77aabccd8bb67ae0a832d59'] = 'Nombre del proyecto';
+$_MODULE['<{psmgen}prestashop>admintemplate_a517747c3d12f99244ae598910d979c5'] = 'Autor';
+$_MODULE['<{psmgen}prestashop>admintemplate_34b6cd75171affba6957e308dcbd92be'] = 'Versión';
+$_MODULE['<{psmgen}prestashop>admintemplate_b5a7adde1af5c87d7fd797b6245c2a39'] = 'Descripción';
+$_MODULE['<{psmgen}prestashop>admintemplate_5c6ba25104401c9ee0650230fc6ba413'] = 'Categoría';
+$_MODULE['<{psmgen}prestashop>admintemplate_93cba07454f06a4a960172bbd6e2a435'] = 'Sí';
+$_MODULE['<{psmgen}prestashop>admintemplate_bafd7322c6e97d25b6299b5d6fe8920b'] = 'No';
+$_MODULE['<{psmgen}prestashop>admintemplate_679034f6c1081bf9c969961b23f562fc'] = 'Página de configuración';
+$_MODULE['<{psmgen}prestashop>admintemplate_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{psmgen}prestashop>validatortemplate_bcf5ed54e409b38c706e08dd37233d17'] = 'Validador de módulos para PrestaShop';
+$_MODULE['<{psmgen}prestashop>validatortemplate_2b41d05b048545522c5816eb2493b2cb'] = 'Validar isset';
+$_MODULE['<{psmgen}prestashop>validatortemplate_93cba07454f06a4a960172bbd6e2a435'] = 'Sí';
+$_MODULE['<{psmgen}prestashop>validatortemplate_bafd7322c6e97d25b6299b5d6fe8920b'] = 'No';
+$_MODULE['<{psmgen}prestashop>validatortemplate_297cc5ded65c9439cc6f7c0e7d55f43c'] = 'Validar header';
+$_MODULE['<{psmgen}prestashop>validatortemplate_61b458587bd9cc7774c8164c07df02a4'] = 'Validar $_POST';
+$_MODULE['<{psmgen}prestashop>validatortemplate_50753e188ae4edf1607301041405deb3'] = 'Validar file_get_content';
+$_MODULE['<{psmgen}prestashop>validatortemplate_9b4123a678f828962dcd88fd3f556292'] = 'Validar $_SESSION';

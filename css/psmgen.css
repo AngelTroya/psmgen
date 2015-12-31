@@ -1,0 +1,123 @@
+/**
+  * Module Custom Best Sellers (v1.0)
+  * 
+  * For Help & Support,
+  * selectomer TIC <info@selectomer.com>
+  * http://www.selectomer.com
+  */
+
+#slidesCustom li, #slides_info li, #slidesCustomReal li, #slidesReal_info li {
+			list-style: none;
+			margin: 0 0 4px 0;
+			background-color: #F4E6C9;
+			border: #CCCCCC solid 1px;
+			color:#000;
+			height: 45px;
+			max-width: 300px;
+		}
+
+#actions_img_custom {
+	float: right;
+	margin-top: 4px;
+}
+
+#img_pro{
+    float: left;
+    height: 40px;
+}
+
+#badge {
+	width: 32px;
+	height: 32px;
+	margin-left: 20px;
+	margin-top: -20px;
+	position: absolute;
+}
+
+#custom_layout_left ,#slidesCustomContent {
+ 	overflow-y:scroll; display:block;
+	border:1px solid #ccc;
+	padding: 10px;
+	background-color: white;
+}
+
+#slidesCustomContent {
+	height:485px;
+	width: 310px;
+}
+
+.custom_separation {
+	height: 50px;
+}
+
+#custom_layout_left {
+	height:354px;
+	width: 300px;
+}
+
+.custom_number {
+	display: block;
+	float: left;
+	margin-left: 20px;
+	width: 20px;
+	font-weight: bold;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+}
+
+.custom_separation {
+	width: 100%;
+	height: 1px;
+	border-bottom: 1px solid #ccc;
+}
+
+.custom_numbers {
+background-color: #333;
+padding: 2px 5px;
+margin-top: 6px;
+width: 20px;
+font-weight: bold;
+font-size: 18px;
+color: #fff;
+text-align: center;
+}
+
+
+.preference_description p {
+	font-family: Georgia, Arial, 'sans-serif';
+	font-style: italic;
+	text-align: left;
+	color: #7F7F7F;
+	font-size: 11px;
+}
+
+input[type=search] { 
+	-webkit-appearance: textfield; 
+	font-size: small; 
+	background: #fff; 
+	width: 290px;
+	border: 1px solid #ccc;
+	margin-top: 3px;
+}
+
+div#custombestsellers_config_toolbar.fix-toolbar { 
+	position: relative;
+	top: -10px; 
+	margin-bottom: 10px;
+	padding: 10px 0;
+}
+
+table#column_position img { padding: 0; margin: 0; }
+
+//se supone que el nombre de la clase va detras del tipo...
+.psmgen_checkbox{
+    background-color: black;
+}
+
+/*.checkbox{
+    display:none;
+}*/
+
+
+
